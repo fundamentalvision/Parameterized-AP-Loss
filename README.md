@@ -7,7 +7,7 @@ By [Chenxin Tao](https://scholar.google.com/citations?user=sXHFIBkAAAAJ&hl=zh-CN
 [Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ),
 [Jifeng Dai](https://jifengdai.org/)
 
-This is the official implementation of the Neurips 2021 paper [Searching Parameterized AP Loss for Object Detection](https://openreview.net/pdf?id=hLTZCN7f3M-).  
+This is the official implementation of the NeurIPS 2021 paper [Searching Parameterized AP Loss for Object Detection](https://openreview.net/pdf?id=hLTZCN7f3M-).  
 
 ## Introduction
 
